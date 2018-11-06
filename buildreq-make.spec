@@ -6,6 +6,7 @@ Summary:        Helper files
 Url:            https://clearlinux.org/
 Group:          base
 Requires:	make
+Requires:	libabigail
 
 %description
 Helper files 
